@@ -15,7 +15,6 @@ cssmin==0.2.0
 cycler==0.10.0
 decorator==4.1.2
 dnspython==1.15.0
-duplicity==0.7.17
 enum34==1.1.6
 expeyes==1.0.0
 fasteners==0.12.0
