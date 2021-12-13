@@ -1,2 +1,3 @@
 heroku create _app_name (only lowercase letters)
 git remote -v (check everything)
+git push heroku master
