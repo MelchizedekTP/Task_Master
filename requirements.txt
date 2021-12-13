@@ -57,6 +57,7 @@ fastcache==1.1.0
 filelock==3.4.0
 flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask==1.1.2
+Flask-SQLAlchemy==2.5.1
 fsspec @ file:///tmp/build/80754af9/fsspec_1602684995936/work
 future==0.18.2
 gevent @ file:///tmp/build/80754af9/gevent_1601397537062/work
@@ -66,6 +67,7 @@ greenlet @ file:///tmp/build/80754af9/greenlet_1600874013538/work
 gunicorn==20.1.0
 h5py==2.10.0
 HeapDict==1.0.1
+helpdev==0.7.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
@@ -164,6 +166,9 @@ pynput==1.7.3
 pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
 pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==12.9.0
+PyQtWebEngine==5.12.1
 pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
 pytest==0.0.0
